@@ -1,0 +1,59 @@
+{
+  "invoice_number": "WD-0088",
+  "invoice_date": "2024-02-28",
+  "due_date": "2024-03-14",
+  "vendor_name": "WebDev Studio",
+  "vendor_address": {
+    "street": "12 Digital Lane",
+    "city": "Miami",
+    "state": "FL",
+    "postal_code": "33101",
+    "country": "US"
+  },
+  "customer_name": "Coastal Realty Group",
+  "customer_address": {
+    "street": "700 Beachside Blvd",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "postal_code": "33301",
+    "country": "US"
+  },
+  "currency": "USD",
+  "subtotal": "7500.00",
+  "tax_rate": "6",
+  "tax_amount": "450.00",
+  "total_amount": "7950.00",
+  "line_items": [
+    {
+      "description": "Website Redesign",
+      "quantity": "1",
+      "unit_price": "5000.00",
+      "amount": "5000.00"
+    },
+    {
+      "description": "SEO Optimization Package",
+      "quantity": "1",
+      "unit_price": "1500.00",
+      "amount": "1500.00"
+    },
+    {
+      "description": "SSL Certificate (1 year)",
+      "quantity": "1",
+      "unit_price": "200.00",
+      "amount": "200.00"
+    },
+    {
+      "description": "Domain Registration (2 years)",
+      "quantity": "1",
+      "unit_price": "30.00",
+      "amount": "30.00"
+    },
+    {
+      "description": "Hosting Setup",
+      "quantity": "1",
+      "unit_price": "770.00",
+      "amount": "770.00"
+    }
+  ],
+  "payment_terms": "50% upfront, 50% on completion"
+}

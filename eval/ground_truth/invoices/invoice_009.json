@@ -1,0 +1,54 @@
+{
+  "invoice_number": "CATR-2024-0199",
+  "invoice_date": "2024-12-01",
+  "due_date": "2024-12-15",
+  "vendor_name": "Gourmet Catering Co.",
+  "vendor_address": {
+    "street": "330 Culinary Way",
+    "city": "Nashville",
+    "state": "TN",
+    "postal_code": "37201",
+    "country": "US"
+  },
+  "customer_name": "TechCon Events Inc.",
+  "customer_address": {
+    "street": "1 Convention Center Drive",
+    "city": "Nashville",
+    "state": "TN",
+    "postal_code": "37213",
+    "country": "US"
+  },
+  "currency": "USD",
+  "subtotal": "8550.00",
+  "tax_rate": "9.25",
+  "tax_amount": "790.88",
+  "total_amount": "9340.88",
+  "line_items": [
+    {
+      "description": "Lunch Buffet (150 guests)",
+      "quantity": "150",
+      "unit_price": "35.00",
+      "amount": "5250.00"
+    },
+    {
+      "description": "Coffee & Beverage Station",
+      "quantity": "2",
+      "unit_price": "400.00",
+      "amount": "800.00"
+    },
+    {
+      "description": "Dessert Bar",
+      "quantity": "1",
+      "unit_price": "1500.00",
+      "amount": "1500.00"
+    },
+    {
+      "description": "Staff (8 hours)",
+      "quantity": "8",
+      "unit_price": "125.00",
+      "amount": "1000.00"
+    }
+  ],
+  "payment_terms": "Due on receipt",
+  "notes": "Event date: December 10, 2024"
+}

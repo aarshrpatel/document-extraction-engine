@@ -1,0 +1,47 @@
+{
+  "invoice_number": "FRL-10293",
+  "invoice_date": "2024-01-10",
+  "due_date": "2024-02-09",
+  "vendor_name": "Freelance Design Co.",
+  "vendor_address": {
+    "street": "45 Artist Row",
+    "city": "Portland",
+    "state": "OR",
+    "postal_code": "97201",
+    "country": "US"
+  },
+  "customer_name": "BrightStar Marketing",
+  "customer_address": {
+    "street": "1200 Ad Avenue",
+    "city": "Los Angeles",
+    "state": "CA",
+    "postal_code": "90001",
+    "country": "US"
+  },
+  "currency": "USD",
+  "subtotal": "4200.00",
+  "tax_amount": "0.00",
+  "total_amount": "4200.00",
+  "line_items": [
+    {
+      "description": "Brand Identity Package",
+      "quantity": "1",
+      "unit_price": "2500.00",
+      "amount": "2500.00"
+    },
+    {
+      "description": "Social Media Templates (10 designs)",
+      "quantity": "1",
+      "unit_price": "1200.00",
+      "amount": "1200.00"
+    },
+    {
+      "description": "Business Card Design",
+      "quantity": "1",
+      "unit_price": "500.00",
+      "amount": "500.00"
+    }
+  ],
+  "payment_terms": "Due on receipt",
+  "notes": "All designs delivered via shared drive."
+}

@@ -1,0 +1,53 @@
+{
+  "invoice_number": "LS-2024-3301",
+  "invoice_date": "2024-07-15",
+  "due_date": "2024-08-14",
+  "vendor_name": "Landscaping Pros LLC",
+  "vendor_address": {
+    "street": "950 Greenway Road",
+    "city": "Denver",
+    "state": "CO",
+    "postal_code": "80201",
+    "country": "US"
+  },
+  "customer_name": "Sunrise Commercial Properties",
+  "customer_address": {
+    "street": "2100 Business Park Drive",
+    "city": "Denver",
+    "state": "CO",
+    "postal_code": "80205",
+    "country": "US"
+  },
+  "currency": "USD",
+  "subtotal": "3825.00",
+  "tax_rate": "4.55",
+  "tax_amount": "174.04",
+  "total_amount": "3999.04",
+  "line_items": [
+    {
+      "description": "Lawn Maintenance (July)",
+      "quantity": "4",
+      "unit_price": "275.00",
+      "amount": "1100.00"
+    },
+    {
+      "description": "Tree Trimming Service",
+      "quantity": "1",
+      "unit_price": "950.00",
+      "amount": "950.00"
+    },
+    {
+      "description": "Irrigation System Repair",
+      "quantity": "1",
+      "unit_price": "1275.00",
+      "amount": "1275.00"
+    },
+    {
+      "description": "Mulch Delivery & Install",
+      "quantity": "10",
+      "unit_price": "50.00",
+      "amount": "500.00"
+    }
+  ],
+  "payment_terms": "Net 30"
+}

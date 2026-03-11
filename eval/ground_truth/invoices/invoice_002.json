@@ -1,0 +1,48 @@
+{
+  "invoice_number": "2024-0042",
+  "invoice_date": "2024-06-01",
+  "due_date": "2024-06-30",
+  "purchase_order_number": "PO-8834",
+  "vendor_name": "Summit Office Supplies",
+  "vendor_address": {
+    "street": "222 Market Street",
+    "city": "Chicago",
+    "state": "IL",
+    "postal_code": "60601",
+    "country": "US"
+  },
+  "customer_name": "Riverdale Accounting Group",
+  "customer_address": {
+    "street": "88 Financial Plaza, Suite 400",
+    "city": "New York",
+    "state": "NY",
+    "postal_code": "10005",
+    "country": "US"
+  },
+  "currency": "USD",
+  "subtotal": "847.50",
+  "tax_rate": "7",
+  "tax_amount": "59.33",
+  "total_amount": "906.83",
+  "line_items": [
+    {
+      "description": "Ergonomic Desk Chair",
+      "quantity": "3",
+      "unit_price": "189.00",
+      "amount": "567.00"
+    },
+    {
+      "description": "Monitor Stand",
+      "quantity": "3",
+      "unit_price": "45.00",
+      "amount": "135.00"
+    },
+    {
+      "description": "Wireless Keyboard",
+      "quantity": "5",
+      "unit_price": "29.10",
+      "amount": "145.50"
+    }
+  ],
+  "payment_terms": "Net 30"
+}

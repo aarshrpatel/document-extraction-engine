@@ -1,0 +1,48 @@
+{
+  "invoice_number": "MFG-2024-0871",
+  "invoice_date": "2024-09-20",
+  "due_date": "2024-10-20",
+  "vendor_name": "Pacific Manufacturing Ltd.",
+  "vendor_address": {
+    "street": "8800 Industrial Parkway",
+    "city": "Seattle",
+    "state": "WA",
+    "postal_code": "98101",
+    "country": "US"
+  },
+  "customer_name": "Apex Electronics Inc.",
+  "customer_address": {
+    "street": "300 Circuit Lane",
+    "city": "San Jose",
+    "state": "CA",
+    "postal_code": "95110",
+    "country": "US"
+  },
+  "currency": "USD",
+  "subtotal": "15750.00",
+  "tax_rate": "9.5",
+  "tax_amount": "1496.25",
+  "shipping_amount": "350.00",
+  "total_amount": "17596.25",
+  "line_items": [
+    {
+      "description": "PCB Assembly Board v3.2",
+      "quantity": "500",
+      "unit_price": "12.50",
+      "amount": "6250.00"
+    },
+    {
+      "description": "LED Display Module 5-inch",
+      "quantity": "200",
+      "unit_price": "22.50",
+      "amount": "4500.00"
+    },
+    {
+      "description": "Custom Enclosure (ABS)",
+      "quantity": "500",
+      "unit_price": "10.00",
+      "amount": "5000.00"
+    }
+  ],
+  "payment_terms": "Net 30"
+}

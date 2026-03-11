@@ -1,0 +1,48 @@
+{
+  "invoice_number": "CS-5590",
+  "invoice_date": "2024-11-05",
+  "due_date": "2024-12-05",
+  "vendor_name": "ClearView Consulting",
+  "vendor_address": {
+    "street": "77 Strategy Tower, Floor 12",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02101",
+    "country": "US"
+  },
+  "customer_name": "MedFirst Health Systems",
+  "customer_address": {
+    "street": "400 Wellness Drive",
+    "city": "Philadelphia",
+    "state": "PA",
+    "postal_code": "19101",
+    "country": "US"
+  },
+  "currency": "USD",
+  "subtotal": "32000.00",
+  "tax_amount": "0.00",
+  "discount_amount": "3200.00",
+  "total_amount": "28800.00",
+  "line_items": [
+    {
+      "description": "IT Strategy Assessment",
+      "quantity": "80",
+      "unit_price": "200.00",
+      "amount": "16000.00"
+    },
+    {
+      "description": "System Architecture Review",
+      "quantity": "40",
+      "unit_price": "250.00",
+      "amount": "10000.00"
+    },
+    {
+      "description": "Compliance Gap Analysis",
+      "quantity": "24",
+      "unit_price": "250.00",
+      "amount": "6000.00"
+    }
+  ],
+  "payment_terms": "Net 30",
+  "notes": "10% volume discount applied."
+}

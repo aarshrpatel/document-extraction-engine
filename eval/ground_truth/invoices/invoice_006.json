@@ -1,0 +1,50 @@
+{
+  "invoice_number": "INV-EU-2024-112",
+  "invoice_date": "2024-04-22",
+  "due_date": "2024-05-22",
+  "vendor_name": "Nordic Data Services AB",
+  "vendor_address": {
+    "street": "Drottninggatan 55",
+    "city": "Stockholm",
+    "state": null,
+    "postal_code": "111 21",
+    "country": "SE"
+  },
+  "vendor_tax_id": "SE556677889901",
+  "customer_name": "FinanceHub GmbH",
+  "customer_address": {
+    "street": "Friedrichstrasse 100",
+    "city": "Berlin",
+    "state": null,
+    "postal_code": "10117",
+    "country": "DE"
+  },
+  "customer_tax_id": "DE123456789",
+  "currency": "EUR",
+  "subtotal": "9600.00",
+  "tax_rate": "25",
+  "tax_amount": "2400.00",
+  "total_amount": "12000.00",
+  "line_items": [
+    {
+      "description": "Data Pipeline Setup",
+      "quantity": "1",
+      "unit_price": "5000.00",
+      "amount": "5000.00"
+    },
+    {
+      "description": "Monthly Maintenance (3 months)",
+      "quantity": "3",
+      "unit_price": "1200.00",
+      "amount": "3600.00"
+    },
+    {
+      "description": "Training Workshop (on-site)",
+      "quantity": "2",
+      "unit_price": "500.00",
+      "amount": "1000.00"
+    }
+  ],
+  "payment_terms": "Net 30",
+  "bank_account": "IBAN: SE45 5000 0000 0583 9825 7466"
+}
